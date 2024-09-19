@@ -9,7 +9,7 @@ import pandas as pd
 from datetime import datetime
 import random
 import streamlit as st
-from sklearn.tree import DecisionTreeRegressor
+from scikit-learn import DecisionTreeRegressor
 
 # Commodity data paths
 commodity_dict = {
